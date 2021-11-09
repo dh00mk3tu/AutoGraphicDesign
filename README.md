@@ -12,4 +12,4 @@
 1. Clip Edges for a circular image
 2. Mask them on a custom background (Circle/Square) 
 ---
-Project maintained by [Anirudh Rath](https://www.anirudhrath.dev)
+Project curated & maintained by [Anirudh Rath](https://www.anirudhrath.dev)
