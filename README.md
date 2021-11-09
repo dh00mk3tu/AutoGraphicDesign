@@ -1,2 +1,3 @@
-# ImageManipulation
-# ImageManipulation
+# AutoGraphicDesign
+
+Automating Graphic Design Tasks 
